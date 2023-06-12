@@ -18,5 +18,4 @@ cout << fixed << setprecision(2);
 cout << "TOTAL = R$ " << TOTAL << endl;
 
 return 0;
-
 }
